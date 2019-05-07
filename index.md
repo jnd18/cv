@@ -1,31 +1,30 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jonathan Dorsey's CV
 ---
-# Isaac Newton
+# Jonathan Dorsey
+Statistician?, coder?, idk
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jndorsey@protonmail.ch">jndorsey@protonmail.ch</a>
+| <a href="https://jnd18.github.io">My website</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+
+`2015`
+Case Western Reserve University
+Cleveland, OH
+Bachelor of Arts in Mathematics
+4.0 GPA
+
+`2019`
+The University of Akron
+Akron, OH
+Master of Science in Statistics
+4.0 GPA
+
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -40,38 +39,9 @@ __Trinity College, Cambridge__
 
 - Fellow
 
+## Technical Skills
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
+## Work Experience
 
 `1600`
 __Royal Mint__, London
@@ -84,8 +54,54 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
+## Publications
+
+`2014`
+J. Dorsey, C. R. Johnson, Z. Wei,
+Patterns with several multiple eigenvalues,
+_Special Matrices_, **2**, 200-205.
+
+`2015`
+J. Dorsey, T. Gannon, N. Jacobson, C. R. Johnson, M. Turnansky,
+Linear preservers of semi-positive matrices,
+_Linear and Multilinear Algebra_, **64**, 1853-1862.
+
+`2016`
+J. Dorsey, T. Gannon, C. R. Johnson, M. Turnansky,
+New results about semi-positive matrices, 
+_Czechoslovak Mathematical Journal_, **66**, 621-632.
+
+
+## Honors
+
+`2014 & 2015`
+Webster Godman Simon Mathematics Award, Case Western Reserve University
+
+`2015`
+John Schoff Millis Award, Case Western Reserve University
+
+`2013 - 2015`
+Treasurer, Pi Mu Epsilon, Case Western Reserve University
+
+`2013 & 2015`
+Leo Schneider Student Competition, Ohio MAA, 1st place
+
+Phi Beta Kappa
+
+
+## Extras
+
+`2016`
+Passed Society of Actuaries Exam P: Probability
+
+`2018`
+Completed Coursera Data Science Specialization
+
+
+
+
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
 
 
