@@ -3,8 +3,7 @@ layout: cv
 title: Jonathan Dorsey's CV
 ---
 # Jonathan Dorsey
-Statistician?, coder?, idk
-Physicist, Mathematician, Cambridge professor.
+<!-- maybe put something here? -->
 
 <div id="webaddress">
 <a href="jndorsey@protonmail.ch">jndorsey@protonmail.ch</a>
@@ -13,33 +12,55 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Education
 
-`2015`
-**Case Western Reserve University**
-- Cleveland, OH
-- Bachelor of Arts in Mathematics
-- 4.0 GPA
-
 `2019`
 **The University of Akron**
 - Akron, OH
 - Master of Science in Statistics
 - 4.0 GPA
 
+`2015`
+**Case Western Reserve University**
+- Cleveland, OH
+- Bachelor of Arts in Mathematics
+- 4.0 GPA
+
+### Relevant Coursework
+
+- Statistical Data Management
+- Advanced Statistical Computing
+- Bayesian Statistics
+- Experimental Design
+- Statistical Consulting
+- Linear Algebra & Matrix Analysis
+- Calculus & Real Analysis
+- Algorithms and Data Structures
+- Discrete Mathematics
 
 ## Technical Skills
 
+- Python
+- R
+- Microsoft Office
+
+## Projects
+
+For examples of my work and writing, see my blog at [jnd18.github.io](https://jnd18.github.io).
+
 ## Work Experience
 
-`1600`
-__Royal Mint__, London
+`June 2015 - January 2016`
+**Tutor.com**
+- Mathematics Tutor
 
-- Warden
-- Minted coins
+`August - December 2014`
+**Case Western Reserve University Math Department**
+- Cleveland, OH
+- Grader
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`June - August 2014`
+**College of William & Mary**
+- Williamsburg, VA
+- Student Researcher
 
 ## Publications
 
@@ -78,15 +99,13 @@ Phi Beta Kappa
 
 ## Extras
 
+`2018`
+**Coursera**
+- Completed ten-course Data Science Specialization offered by Johns Hopkins University
+
 `2016`
 **Society of Actuaries**
 - Passed Exam P: Probability
-
-`2018`
-**Coursera**
-- Completed Data Science Specialization
-
-
 
 
 <!-- ### Footer
