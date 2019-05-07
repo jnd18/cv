@@ -14,14 +14,12 @@ Statistics, Computing, and Mathematics
 ## Education
 
 `2019`
-**The University of Akron**
-- Akron, OH
+**The University of Akron** | Akron, OH
 - Master of Science in Statistics
 - 4.0 GPA
 
 `2015`
-**Case Western Reserve University**
-- Cleveland, OH
+**Case Western Reserve University** | Cleveland, OH
 - Bachelor of Arts in Mathematics
 - 4.0 GPA
 
@@ -62,17 +60,20 @@ For examples of my work and writing, see my blog at [jnd18.github.io](https://jn
 
 `June 2015 - January 2016`
 **Tutor.com**
-- Mathematics Tutor
+- **Mathematics Tutor**
+- Assisted college and high school students in algebra, calculus, logic, and discrete mathematics
+- Identified students' problem areas and worked to find solutions
 
 `August - December 2014`
-**Case Western Reserve University Math Department**
-- Cleveland, OH
-- Grader
+**Case Western Reserve University Math Department** | Cleveland, OH
+- **Grader**
+- Graded proof-based linear algebra with strict attention to detail
 
 `June - August 2014`
-**College of William & Mary**
-- Williamsburg, VA
-- Student Researcher
+**College of William & Mary** | Williamsburg, VA
+- **Student Researcher**
+- Co-authored several linear algebra papers
+- Worked with little supervision in a highly collaborative and creative environment
 
 ## Publications
 
