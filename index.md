@@ -15,31 +15,16 @@ Physicist, Mathematician, Cambridge professor.
 
 `2015`
 **Case Western Reserve University**
-
 - Cleveland, OH
 - Bachelor of Arts in Mathematics
 - 4.0 GPA
 
 `2019`
 **The University of Akron**
-
 - Akron, OH
 - Master of Science in Statistics
 - 4.0 GPA
 
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 ## Technical Skills
 
@@ -94,10 +79,12 @@ Phi Beta Kappa
 ## Extras
 
 `2016`
-Passed Society of Actuaries Exam P: Probability
+**Society of Actuaries**
+- Passed Exam P: Probability
 
 `2018`
-Completed Coursera Data Science Specialization
+**Coursera**
+- Completed Data Science Specialization
 
 
 
