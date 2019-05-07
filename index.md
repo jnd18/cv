@@ -14,16 +14,18 @@ Physicist, Mathematician, Cambridge professor.
 ## Education
 
 `2015`
-Case Western Reserve University
-Cleveland, OH
-Bachelor of Arts in Mathematics
-4.0 GPA
+**Case Western Reserve University**
+
+- Cleveland, OH
+- Bachelor of Arts in Mathematics
+- 4.0 GPA
 
 `2019`
-The University of Akron
-Akron, OH
-Master of Science in Statistics
-4.0 GPA
+**The University of Akron**
+
+- Akron, OH
+- Master of Science in Statistics
+- 4.0 GPA
 
 
 `1654-1660`
