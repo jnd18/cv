@@ -3,7 +3,8 @@ layout: cv
 title: Jonathan Dorsey's CV
 ---
 # Jonathan Dorsey
-<!-- maybe put something here? -->
+
+Statistics, Computing, and Mathematics
 
 <div id="webaddress">
 <a href="jndorsey@protonmail.ch">jndorsey@protonmail.ch</a>
@@ -31,6 +32,7 @@ title: Jonathan Dorsey's CV
 - Bayesian Statistics
 - Experimental Design
 - Statistical Consulting
+- Probability & Mathematical Statistics
 - Linear Algebra & Matrix Analysis
 - Calculus & Real Analysis
 - Algorithms and Data Structures
@@ -40,7 +42,17 @@ title: Jonathan Dorsey's CV
 
 - Python
 - R
+- SQL
+- Git
+- Command line
+- Markdown
+- LaTeX
+- Jupyter Notebooks
 - Microsoft Office
+- Data Cleaning
+- Data Visualization
+- Machine Learning
+
 
 ## Projects
 
