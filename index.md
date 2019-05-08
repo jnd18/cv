@@ -7,7 +7,7 @@ title: Jonathan Dorsey's CV
 Statistics, Computing, and Mathematics
 
 <div id="webaddress">
-<a href="jndorsey@protonmail.ch">jndorsey@protonmail.ch</a>
+<a href="jndorsey@protonmail.ch">mailto:jndorsey@protonmail.ch</a>
 | <a href="https://jnd18.github.io">My website</a>
 </div>
 
