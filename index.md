@@ -41,6 +41,7 @@ Statistics, Computing, and Mathematics
 - Python
 - R
 - SQL
+- Tableau
 - Git
 - Command line
 - Markdown
