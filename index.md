@@ -59,6 +59,13 @@ For examples of my work and writing, see my blog at [jnd18.github.io](https://jn
 
 ## Work Experience
 
+`January 2020 - Present`
+**Willis Towers Watson**
+- **Catastrophe Risk Analyst**
+- Work with large data sets to develop understanding and insight
+- Interpret catastrophe model outputs and prepare written reports
+- Present analyses to clients and prospective clients
+
 `June 2015 - January 2016`
 **Tutor.com**
 - **Mathematics Tutor**
